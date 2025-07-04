@@ -99,8 +99,8 @@ npm run build
 
 ## 👨‍💻 Author
 
-**Chetan Agarwal**    
-[GitHub](https://github.com/agarwalchetan)
+**Ankita Agarwal**    
+[GitHub](https://github.com/agarwalankita1613)
 
 ---
 
