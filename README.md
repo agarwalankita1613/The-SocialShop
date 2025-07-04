@@ -20,7 +20,7 @@
 ## 🧱 Project Structure
 
 ```
-agarwalchetan-the-socialshop/
+agarwalankita1613-the-socialshop/
 ├── public/                 # Static assets (optional if added)
 ├── src/
 │   ├── App.tsx            # Root component
@@ -69,8 +69,8 @@ agarwalchetan-the-socialshop/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/agarwalchetan/the-socialshop.git
-cd agarwalchetan-the-socialshop
+git clone https://github.com/agarwalankita1613/the-socialshop.git
+cd agarwalankita1613-the-socialshop
 ```
 
 ### 2. Install Dependencies
